@@ -1,0 +1,7 @@
+[
+  { "code": "REDE-PRIMEIRA", "expiresAt": "2027-12-31", "reward": { "label": "300 Bits e 2 Núcleos de Fogo", "bits": 300, "fireCores": 2 } },
+  { "code": "ELO-DIGITAL", "expiresAt": "2027-12-31", "reward": { "label": "1 tentativa de gacha", "pulls": 1 } },
+  { "code": "CORAGEM-2026", "expiresAt": "2027-12-31", "reward": { "label": "1 Emblema da Coragem", "courage": 1 } },
+  { "code": "ARENA-ABERTA", "expiresAt": "2027-12-31", "reward": { "label": "200 Bits e 20 de energia", "bits": 200, "energy": 20 } },
+  { "code": "LAÇO-PARCEIRO", "expiresAt": "2027-12-31", "reward": { "label": "1 presente de vínculo", "bondGift": 1 } }
+]
